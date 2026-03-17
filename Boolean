@@ -1,0 +1,7 @@
+let isHungry = true;
+
+if (isHungry) {
+  console.log("Go eat!");
+} else {
+  console.log("You're full!");
+}
