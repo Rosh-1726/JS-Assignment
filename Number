@@ -1,0 +1,7 @@
+let x = 10;
+let y = 5;
+
+console.log("Sum:", x + y);
+console.log("Difference:", x - y);
+console.log("Product:", x * y);
+console.log("Division:", x / y);
