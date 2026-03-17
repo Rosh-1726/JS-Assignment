@@ -1,0 +1,4 @@
+let symbol1 = Symbol("unique");
+let symbol2 = Symbol("unique");
+
+console.log("Are symbols equal?", symbol1 === symbol2);
