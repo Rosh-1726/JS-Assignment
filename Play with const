@@ -1,0 +1,8 @@
+const fruits = ["apple", "banana", "mango"];
+
+// add new fruit
+fruits.push("orange");
+console.log("After adding:", fruits);
+
+// try reassigning
+fruits = ["grapes", "kiwi"]; // ❌ Error
