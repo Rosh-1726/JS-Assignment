@@ -1,0 +1,6 @@
+let color = "blue";
+console.log("Before change:", color);
+
+// change value
+color = "red";
+console.log("After change:", color);
