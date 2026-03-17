@@ -1,0 +1,10 @@
+let colors = ["red", "blue", "green", "yellow", "purple"];
+console.log("Initial array:", colors);
+
+// Add new color
+colors.push("pink");
+console.log("After adding pink:", colors);
+
+// Remove last color
+colors.pop();
+console.log("After removing last color:", colors);
