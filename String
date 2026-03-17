@@ -1,0 +1,4 @@
+let favoriteMovie = "Spider-Man";
+let message = "I love watching " + favoriteMovie;
+
+console.log(message);
