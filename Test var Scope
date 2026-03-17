@@ -1,0 +1,6 @@
+if (true) {
+  var testVar = "I am inside block";
+}
+
+// accessing outside block
+console.log(testVar);
