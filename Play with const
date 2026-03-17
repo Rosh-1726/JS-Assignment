@@ -5,4 +5,12 @@ fruits.push("orange");
 console.log("After adding:", fruits);
 
 // try reassigning
-fruits = ["grapes", "kiwi"]; // ❌ Error
+fruits = ["grapes", "kiwi"]; 
+
+Output before error:
+
+After adding: ["apple", "banana", "mango", "orange"]
+
+Error
+
+TypeError: Assignment to constant variable.
